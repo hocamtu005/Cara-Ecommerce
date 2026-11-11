@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.env
+*.env
+public/_test_db.php
+cara-ecommerce-db.sql
+cara-ecommerce.sql
+*.log
