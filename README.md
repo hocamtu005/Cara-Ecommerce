@@ -1,4 +1,4 @@
-# 🛍️ Cara Ecommerce v1.0
+# 🛍️ Cara Ecommerce
 
 Đây là dự án website thương mại điện tử fullstack dành cho các shop thời trang và phụ kiện. Hệ thống được chia làm hai phần chính: một trang web để khách hàng vào mua sắm, chốt đơn và một trang quản trị riêng để Admin quản lý toàn bộ dữ liệu.
 
