@@ -68,3 +68,7 @@ docker compose up -d
 ### 4. Cổng kết nối
 - **MySQL Host:** `127.0.0.1` (hoặc `localhost`)
 - **MySQL Port:** `3308`
+
+<img width="1917" height="867" alt="Screenshot 2026-11-11 230336" src="https://github.com/user-attachments/assets/4e45958e-1f4b-4cb4-8e5a-ec514745a6c3" />
+<img width="1917" height="865" alt="Screenshot 2026-11-11 230356" src="https://github.com/user-attachments/assets/22693810-7489-4ff9-83d1-7152bcfa1a66" />
+
